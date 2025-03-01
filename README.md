@@ -30,7 +30,7 @@ This script is designed to identify registered usernames on a login page by brut
 1. Modify the script to set the target login URL (`http://login.php`) and the correct wordlist path.
 2. Run the script:
    ```bash
-   python script.py
+   python brute_force_login_page_php_for_username.py
    ```
 
 ## Disclaimer
